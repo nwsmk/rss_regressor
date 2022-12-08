@@ -27,6 +27,7 @@ To run the project:
 
 ### Reference ###
 If you find this code useful, please cite this work as
+
 Wisanmongkol, J., et al.: An ensemble approach to deep-learning-based wireless indoor localization. IET Wirel. Sens. Syst. 12( 2), 33– 55. (2022). https://doi.org/10.1049/wss2.12035
 
 https://ietresearch.onlinelibrary.wiley.com/share/X4DVDZH5VNXJIYX44V9G?target=10.1049/wss2.12035
