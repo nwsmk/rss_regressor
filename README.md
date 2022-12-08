@@ -20,5 +20,7 @@ To run the project, run the 'main.py' file. (Please change the path to the data 
 - To generate testing datset, set the flag 'gendataTest = True'.
 - To train/re-train the model, set the flag 'trainmodel = True'.
 
+*** First time running the code, please set all flags to True to generate the training and testing data, and train the model.
+
 ### Reference ###
 https://ietresearch.onlinelibrary.wiley.com/share/X4DVDZH5VNXJIYX44V9G?target=10.1049/wss2.12035
