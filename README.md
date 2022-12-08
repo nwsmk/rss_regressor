@@ -15,10 +15,13 @@ The required libraries are
 
 
 ### Running the code ###
-To run the project, run the 'main.py' file. (Please change the path to the data files according to your settings.)
+To run the project:
+1. run the 'main_ensemble_train.py' file to generate ensemble models.
+(Please change the path to the data files according to your settings.)
 - To generate training dataset, set the flag 'gendataTrain = True'.
 - To generate testing datset, set the flag 'gendataTest = True'.
 - To train/re-train the model, set the flag 'trainmodel = True'.
+2. run the 'main_ensemble_test.py' file to combine the ensemble models to produce the target's location.
 
 *** First time running the code, please set all flags to True to generate the training and testing data, and train the model.
 
