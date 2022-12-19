@@ -6,9 +6,9 @@ A feed-forward neural network is used in this implementation.
 
 ### Libraries ###
 The required libraries are
-- tensorflow
-- keras
-- scikit-learn
+- tensorflow 2.4.0
+- keras 2.4.3
+- scikit-learn 0.24.1
 - numpy
 - matplotlib
 - joblib
